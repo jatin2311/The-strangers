@@ -7,7 +7,7 @@ function Header() {
         <div className="flex flex-wrap flex-row">
         <button className="w-8 mt-2 sm:mt-0"><FaBars size={30} /></button>
         <button className="hidden sm:flex">
-        <img src={logo} className=" ml-4 w-56 md:w-72" alt="" />
+        <img src={logo} className=" ml-4 w-56 lg:w-72" alt="" />
         </button>
         </div>
         <div className="top-nav w-full float-right  sm:inline-flex  sm:flex-grow  sm:w-auto ">
